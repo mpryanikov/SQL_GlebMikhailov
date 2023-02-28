@@ -1,0 +1,11 @@
+/.idea/*
+*-checkpoint.py
+*.pyc
+/.venv/*
+*.zip
+!*.ipynb
+
+/build/
+/dist/
+*/db
+!*.pdf
